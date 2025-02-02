@@ -1,4 +1,5 @@
 # 📜 Bhagavad Gita Dashboard
+https://github.com/user-attachments/assets/c0b70209-6fee-48cd-a91e-ea2dafc685a6
 
 ## 📌 Overview
 This **Power BI dashboard** is designed to **analyze and visualize** the verses of the *Bhagavad Gita* in an **interactive and structured** way. It allows users to **explore chapters and verses** while providing their meanings in **Sanskrit, Hindi, and English**. The dashboard goes beyond just data representation—it serves as a **guidance tool**, helping users find **relevant verses** for different life situations, making the timeless wisdom of the *Bhagavad Gita* more accessible and actionable.
@@ -47,8 +48,11 @@ While reading the Bhagavad Gita, I came across a page that suggested specific ve
 - Creating **interactive slicers & filters** for dynamic analysis.
 
 ## 📸 Preview
+### Page 1:
 ![Image](https://github.com/user-attachments/assets/ceb57ed5-91ed-4ff8-981a-531a765a8f1e)
+### Page 2:
 ![Image](https://github.com/user-attachments/assets/b5c96480-6f3d-4ed6-9a8f-e757beafeb71)
+### Page 3:
 ![Image](https://github.com/user-attachments/assets/dddcbfe8-b087-4eb1-beb8-5559e631fdfe)
 
 
